@@ -22,13 +22,13 @@
 		FA919B7F15A259E90030A8E5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FA919B8115A259E90030A8E5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FA919B8315A259E90030A8E5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		FA919B8715A259E90030A8E5 /* quiz2-Info.plist */ = {isa = PBXFileReference; path = "quiz2-Info.plist"; sourceTree = "<group>"; };
+		FA919B8715A259E90030A8E5 /* quiz2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "quiz2-Info.plist"; sourceTree = "<group>"; };
 		FA919B8915A259E90030A8E5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FA919B8B15A259E90030A8E5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FA919B8D15A259E90030A8E5 /* quiz2-Prefix.pch */ = {isa = PBXFileReference; path = "quiz2-Prefix.pch"; sourceTree = "<group>"; };
-		FA919B8E15A259E90030A8E5 /* QuizAppDelegate.h */ = {isa = PBXFileReference; path = QuizAppDelegate.h; sourceTree = "<group>"; };
+		FA919B8D15A259E90030A8E5 /* quiz2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "quiz2-Prefix.pch"; sourceTree = "<group>"; };
+		FA919B8E15A259E90030A8E5 /* QuizAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuizAppDelegate.h; sourceTree = "<group>"; };
 		FA919B8F15A259E90030A8E5 /* QuizAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuizAppDelegate.m; sourceTree = "<group>"; };
-		FA919B9115A259E90030A8E5 /* QuizViewController.h */ = {isa = PBXFileReference; path = QuizViewController.h; sourceTree = "<group>"; };
+		FA919B9115A259E90030A8E5 /* QuizViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuizViewController.h; sourceTree = "<group>"; };
 		FA919B9215A259E90030A8E5 /* QuizViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuizViewController.m; sourceTree = "<group>"; };
 		FA919B9515A259E90030A8E5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/QuizViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
