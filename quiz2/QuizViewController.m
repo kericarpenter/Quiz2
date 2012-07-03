@@ -8,6 +8,8 @@
 
 #import "QuizViewController.h"
 
+//  Keri Carpenter wrote this on 7/2/12 at 5:12pm.
+
 @interface QuizViewController ()
 
 @end
